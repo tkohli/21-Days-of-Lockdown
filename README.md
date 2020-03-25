@@ -8,4 +8,5 @@ Amazon Web Services is a subsidiary of Amazon that provides on-demand cloud comp
 We won't be using AWS but I wanted to learn this and is also easy to start  
 Prerequisites  
 -Operating system  
--Basic Networking
+-Basic Networking  
+    Ping me for course details
