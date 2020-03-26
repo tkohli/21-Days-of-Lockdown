@@ -10,6 +10,6 @@ Prerequisites
 -Operating system  
 -Basic Networking  
     Ping me for course details  
-# Day 2 - Javascript<br>
-It's day 2 and I always wanted to learn javascript. It's a very popular prorgramming laanguage and widely used we'll just take its overview today.<br>
-JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
+# Day 2 - Data Science<br>
+Let's get started with Data science one of the most used skill in the industry today. <br>
+Data science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data. Data science is related to data mining and big data
