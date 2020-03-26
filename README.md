@@ -11,5 +11,5 @@ Prerequisites
 -Basic Networking  
     Ping me for course details  
 # Day 2 - Javascript<br>
-It's day 2 and I always wanted to learn javascript. It's a very popular prorgramming laanguage and widely used we'll just take its overview today.
+It's day 2 and I always wanted to learn javascript. It's a very popular prorgramming laanguage and widely used we'll just take its overview today.<br>
 JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
