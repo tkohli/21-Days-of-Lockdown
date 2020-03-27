@@ -13,3 +13,7 @@ Prerequisites
 # Day 2 - Data Science<br>
 Let's get started with Data science one of the most used skill in the industry today. <br>
 Data science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data. Data science is related to data mining and big data
+
+# Day 3 - Lets do some python today
+Just getting started with python.<br>Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace.<br>
+# P.S. these days are unplanned and I am looking to start a properly planned ML course maybe next week
