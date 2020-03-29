@@ -17,6 +17,6 @@ Data science is an inter-disciplinary field that uses scientific methods, proces
 
 # Day 3 to 5 - Lets do some python 27th March - 29th March 
 Just getting started with python.<br>Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace.<br>
-# Day 6-9 - ML 31th March
+# Day 6-9 - ML 31st March
 Covering the basics of ML 
 # P.S. these days are unplanned and I am looking to start a properly planned ML course maybe next week
