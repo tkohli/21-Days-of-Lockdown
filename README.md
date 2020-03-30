@@ -11,6 +11,6 @@ Amazon Web Services is a subsidiary of Amazon that provides on-demand cloud comp
 We won't be using AWS but I wanted to learn this and is also easy to start 
 # Day 3 to 5 - Lets do some python 26th March - 28th March 
 Just getting started with python.<br>Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace.
-# Day 6 - Data Science 29th March
+# Day 6 to 8 - Data Science 29th March - 31st March
 Let's get started with Data science one of the most used skill in the industry today. <br>
 Data science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data. Data science is related to data mining and big data
