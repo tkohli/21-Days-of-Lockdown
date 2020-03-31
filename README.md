@@ -3,7 +3,7 @@ While we all are hoping for a speedy recovery of all coronavirus patient all ove
 Lets spend this time to learn new things 
 I hope everyone gets well soon<br>
 
-# Day 1 Learning Git 24th March
+# Day 1 Learning Git and Github 24th March
 Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
 # Day 2 - AWS 25th March
 Today we will work on AWS  
