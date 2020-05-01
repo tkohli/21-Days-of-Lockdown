@@ -7,3 +7,7 @@
 6. Binary Search Tree<br>
 7. Heap<br>
 8. Graph<br>
+9. Greedy<br>
+10.Dynamic Programming<br>
+11.Divide and Conquer<br>
+12.Backtracking
