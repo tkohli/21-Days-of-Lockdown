@@ -1,4 +1,4 @@
-# Data Structures
+# Data Structures <br>We will use generic coding 
 1.  Arrays<br>
 2.  Linked List<br>
 3.  Stack<br>
